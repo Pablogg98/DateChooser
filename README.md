@@ -1,3 +1,3 @@
-# InicioSesionMVC
+# DateChooser
 
-Inicio de Sesion con MVC.
+DateChooser, componente que creamos para elegir fechas
